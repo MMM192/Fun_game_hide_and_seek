@@ -1,3 +1,5 @@
+![Game Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/rps/horse.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
