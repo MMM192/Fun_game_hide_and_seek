@@ -1,4 +1,4 @@
-![Game Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/rps/horse.png)
+![Game Screenshot](https://raw.githubusercontent.com/MMM192/Images_redmi/main/fun_game/horse.png)
 
 # Getting Started with Create React App
 
